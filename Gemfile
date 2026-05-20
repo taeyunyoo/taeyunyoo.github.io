@@ -9,5 +9,15 @@ group :jekyll_plugins do
   gem 'webrick', '~> 1.8'
 end
 
-gem 'github-pages'
+# gem 'github-pages'
 gem 'connection_pool', '2.5.0'
+
+gem "csv", "~> 3.3"
+
+gem "bigdecimal", "~> 4.1"
+
+gem "tzinfo-data", "~> 1.2026"
+gem "liquid", ">= 4.0.4"
+gem "jekyll-gist", "~> 1.5"
+
+gem "jekyll-paginate", "~> 1.1"

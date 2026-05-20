@@ -1,0 +1,47 @@
+<div class="publication-card" style="display: flex; gap: 20px; margin-bottom: 34px; align-items: flex-start;">
+
+  {% if post.thumbnail %}
+    <div class="publication-thumbnail" style="flex: 0 0 150px;">
+      <img src="{{ post.thumbnail }}"
+           alt="{{ post.title }}"
+           style="width: 150px; height: auto; border: 1px solid #ddd; box-shadow: 0 1px 4px rgba(0,0,0,0.12);">
+    </div>
+  {% endif %}
+
+  <div class="publication-content" style="flex: 1;">
+
+    <h2 style="font-size: 1.05em; margin-top: 0; margin-bottom: 3px; font-weight: 700; line-height: 1.25;">
+  {% if post.type %}<span style="font-weight: 700;">[{{ post.type }}]</span> {% endif %}{{ post.title }}
+    </h2>
+
+{% if post.authors %}
+  <p style="margin: 0 0 2px 0; line-height: 1.3;">
+    {{ post.authors }}
+  </p>
+{% endif %}
+
+<p style="margin: 0 0 8px 0; line-height: 1.3;">
+  {% if post.venue %}<em>{{ post.venue }}</em>{% endif %}{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+</p>
+
+    {% if post.excerpt %}
+      <details style="margin-top: 8px;">
+        <summary style="list-style: none; cursor: pointer; display: inline-block;">
+          <span class="btn btn--inverse">Abstract</span>
+          {% if post.linkurl %}
+            <a href="{{ post.linkurl }}" target="_blank" class="btn btn--inverse" style="margin-left: 6px;">Link</a>
+          {% endif %}
+        </summary>
+
+        <p style="margin-top: 10px; max-width: 850px;">
+          {{ post.excerpt }}
+        </p>
+      </details>
+    {% else %}
+      {% if post.linkurl %}
+        <a href="{{ post.linkurl }}" target="_blank" class="btn btn--inverse">Link</a>
+      {% endif %}
+    {% endif %}
+
+  </div>
+</div>
