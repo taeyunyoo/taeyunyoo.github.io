@@ -41,7 +41,7 @@ The pilot has to continuously correct for that drift using crosswind correction 
        alt="Crosswind Correction"
        style="width: 500px; max-width: 100%; height: auto;">
   <br>
-  <em> Figure by author</em>
+  <em> Figure by author using ChatGPT</em>
 </p>
 
 In that sense, wind is not simply a matter of the airplane “shaking a little.”
