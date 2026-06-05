@@ -28,7 +28,7 @@ For this first post, I will start with the basics: what ADS-B is, and why it has
        alt="FAA NextGen ADS-B illustration"
        style="width: 400px; max-width: 100%; height: auto;">
   <br>
-  <em>Source: FAA</em>
+  <em>Source: <a href="https://commons.wikimedia.org/wiki/File:FAA_NextGen_ADS-B_implementation.jpg" target="_blank">FAA</a>.</em>
 </p>
 
 ADS-B stands for **Automatic Dependent Surveillance-Broadcast**.
@@ -138,7 +138,7 @@ Traditional safety data sources, such as **Flight Data Recorder (FDR)** or **Qui
        alt="Flight Data Recorder"
        style="width: 400px; max-width: 100%; height: auto;">
   <br>
-  <em>Source: NTSB</em>
+  <em>Source: <a href="https://commons.wikimedia.org/wiki/File:Fdr_sidefront.jpg" target="_blank">NTSB</a>.</em>
 </p>
 
 However, those data sources are usually internal to airlines or operating organizations, which makes them difficult for outside researchers to access.

@@ -33,6 +33,7 @@ author_profile: true
 
 * **Focus:** Quantifying short-term traffic proximity risk evolution following go-around events using an event-based analytical framework to support In-Time Aviation Safety Management Systems (IASMS).
 * **Advisor:** Dr. João S. D. Garcia
+* **Funding:** Funded by the [Boeing Center for Aviation and Aerospace Safety](https://erau.edu/research-and-innovation/centers-and-institutes/boeing-center-for-aviation-and-aerospace-safety)
 
 ### 3. Nationwide ADS-B Analytics: Low-Altitude Air Traffic Density Modeling
 
