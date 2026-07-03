@@ -46,18 +46,6 @@ author_profile: true
 * **Focus:** Developing a scalable, big-data processing architecture using H3 hexagonal spatial indexing and terrain normalization to model nationwide low-altitude air traffic density.
 * **Advisor:** Dr. Ryan Wallace
 
-### 4. Advanced Air Mobility (AAM) Integration: Disaster Response Use-Cases and Public Acceptance
-
-<p align="center">
-  <img src="/images/research/AAM.png"
-       alt="Wind Exposure and Approach Stability"
-       style="width: 500px; max-width: 100%; height: auto;">
-</p>
-
-* **Focus:** Evaluating government-operated AAM missions, specifically in disaster response scenarios, to assess their impact on public trust and develop evidence-based acceptance frameworks.
-* **Advisor:** Dr. João S. D. Garcia
-* **Funding:** Funded by the Florida Department of Transportation
-
 <br>
 
 ## Past Projects
@@ -74,3 +62,15 @@ author_profile: true
 * **Focus:** Developed a machine learning-based prediction framework using ADS-B trajectory data and ACARS operational data to estimate aircraft fuel burn and explore data-driven approaches to aircraft performance modeling.
 * **Advisor:** Dr. João S. D. Garcia
 * **Recognition:** Placed 9th among 173 teams in the EUROCONTROL Performance Review Commission (PRC) Challenge.
+
+### 2. Advanced Air Mobility (AAM) Integration: Disaster Response Use-Cases and Public Acceptance
+
+<p align="center">
+  <img src="/images/research/AAM.png"
+       alt="Wind Exposure and Approach Stability"
+       style="width: 500px; max-width: 100%; height: auto;">
+</p>
+
+* **Focus:** Evaluating government-operated AAM missions, specifically in disaster response scenarios, to assess their impact on public trust and develop evidence-based acceptance frameworks.
+* **Advisor:** Dr. João S. D. Garcia
+* **Funding:** Funded by the Florida Department of Transportation

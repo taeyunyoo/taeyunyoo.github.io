@@ -15,7 +15,7 @@ My teaching and mentoring experience reflects a broad engagement with aviation e
        style="width: 450px; max-width: 100%; height: auto;">
 </p>
 
-As an FAA-certified flight instructor, I have provided flight and ground instruction at [Aviators Academy](https://aviatorsacademy.us/) across multiple stages of pilot training. My instructional experience includes working with students in various aircraft and avionics configurations, with an emphasis on technical proficiency, procedural discipline, aeronautical knowledge, and safety-oriented training practices.
+As an FAA-certified flight instructor, I have provided flight and ground instruction across multiple stages of pilot training. My instructional experience includes working with students in various aircraft and avionics configurations, with an emphasis on technical proficiency, procedural discipline, aeronautical knowledge, and safety-oriented training practices.
 
 Beyond direct instruction, I have developed student training resources such as pre-solo exam materials and exam-preparation guides. These materials were designed to help students prepare for key training milestones and promote consistency in ground instruction and checkride preparation.
 
