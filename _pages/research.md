@@ -51,7 +51,7 @@ author_profile: true
 ## Past Projects
 <hr />
 
-### 1. PRC Challenge: Predicting Aircraft Fuel Burn Using ADS-B and ACARS Data
+### 1. 2026 PRC Challenge: Predicting Aircraft Fuel Burn Using ADS-B and ACARS Data
 
 <p align="center">
   <img src="/images/research/PRC.png"
@@ -71,6 +71,6 @@ author_profile: true
        style="width: 500px; max-width: 100%; height: auto;">
 </p>
 
-* **Focus:** Evaluating government-operated AAM missions, specifically in disaster response scenarios, to assess their impact on public trust and develop evidence-based acceptance frameworks.
+* **Focus:** Evaluated government-operated AAM missions, specifically in disaster response scenarios, to assess their impact on public trust and develop evidence-based synthesis frameworks.
 * **Advisor:** Dr. João S. D. Garcia
 * **Funding:** Funded by the Florida Department of Transportation
