@@ -15,9 +15,9 @@ author_profile: true
 ### 1. Wind Exposure and Approach Stability: Mediating Effects on Go-Around Initiation
 
 <p align="center">
-  <img src="/images/research/ApproachStability.png"
+  <img src="/images/research/ApproachStability2.svg"
        alt="Wind Exposure and Approach Stability"
-       style="width: 600px; max-width: 100%; height: auto;">
+       style="width: 700px; max-width: 100%; height: auto;">
 </p>
 
 * **Focus:** Analyzing how wind exposure impacts go-around initiation and quantifying the mediating role of approach stability using large-scale ADS-B trajectories and weather data.
@@ -35,12 +35,23 @@ author_profile: true
 * **Advisor:** Dr. João S. D. Garcia
 * **Funding:** Funded by the [Boeing Center for Aviation and Aerospace Safety](https://erau.edu/research-and-innovation/centers-and-institutes/boeing-center-for-aviation-and-aerospace-safety)
 
-### 3. Nationwide ADS-B Analytics: Low-Altitude Air Traffic Density Modeling
+### 3. LAANC/UASFM Analytics: Shared-Airspace Exposure in Low-Altitude Terminal Operations
+
+<p align="center">
+  <img src="/images/research/UASFM.png"
+       alt="Wind Exposure and Approach Stability"
+       style="width: 450px; max-width: 100%; height: auto;">
+</p>
+
+* **Focus:** Integrating terrain-normalized ADS-B trajectories with FAA UAS Facility Map grids to assess conventional aircraft exposure within LAANC-authorized UAS altitude bands.
+* **Advisor:** Dr. Ryan Wallace
+
+### 4. Nationwide ADS-B Analytics: Low-Altitude Air Traffic Density Modeling
 
 <p align="center">
   <img src="/images/research/SAE.png"
        alt="Wind Exposure and Approach Stability"
-       style="width: 500px; max-width: 100%; height: auto;">
+       style="width: 450px; max-width: 100%; height: auto;">
 </p>
 
 * **Focus:** Developing a scalable, big-data processing architecture using H3 hexagonal spatial indexing and terrain normalization to model nationwide low-altitude air traffic density.

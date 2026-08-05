@@ -7,18 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student in Aviation at Embry-Riddle Aeronautical University with specializing in Aviation Safety Systems. I also earned my B.S. in Aeronautical Science from Embry-Riddle.
+I am an M.S. student in Aviation at Embry-Riddle Aeronautical University, specializing in Aviation Safety Systems. I also earned my B.S. in Aeronautical Science from Embry-Riddle.
 
-My current academic interests focus on data-driven aviation safety analysis, particularly the use of ADS-B trajectory data to understand approach stability, wind-related operational risk, and go-around decision-making. I am interested in how large-scale flight data can be translated into practical safety insights for pilots, instructors, researchers, and aviation organizations.
+My research focuses on data-driven aviation safety and risk analytics, with particular emphasis on the use of ADS-B trajectory data. My current work examines approach stability, wind-related operational risk, go-around behavior, traffic proximity risk in terminal airspace, and low-altitude airspace operations. I am especially interested in translating large-scale operational data into practical safety insights and decision-support tools for pilots, instructors, researchers, and aviation organizations.
 
-In addition to my academic work, I am an FAA-certified flight instructor with 1,000 total flight time. I am interested in connecting real-world flight training challenges with analytical methods that can support safer decision-making and more effective aviation safety systems.
+I am also an FAA-certified commercial pilot and flight instructor with approximately 1,000 hours of flight time. This operational background informs my interest in connecting real-world flight training and airspace challenges with quantitative methods that support safer decision-making and more effective aviation safety management.
 
-Looking ahead, I hope to continue developing this line of research through doctoral study in aviation safety, data-driven safety analysis, and operational risk assessment.
+Looking ahead, I plan to pursue doctoral study focused on aviation safety analytics, air transportation systems, operational risk assessment, and data-driven decision support.
 
 ## Research Interests
 
-- Data-driven aviation safety analysis
-- ADS-B trajectory analytics for terminal and low-altitude operations
-- Approach stability, wind exposure, and go-around safety
-- Aviation safety systems and risk-based decision support
-- Human factors in flight training and operational safety
+- Aviation safety and risk analytics
+- Air transportation systems and operations
+- Trajectory and surveillance data analytics
+- Terminal and low-altitude airspace operations
+- Operations research and data-driven decision support
