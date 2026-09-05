@@ -12,7 +12,18 @@ author_profile: true
 ## Ongoing Projects
 <hr />
 
-### 1. Wind Exposure and Approach Stability: Mediating Effects on Go-Around Initiation
+### 1. 2026 PRC Data Challenge
+
+<p align="center">
+  <img src="/images/research/PRC2026.png"
+       alt="Wind Exposure and Approach Stability"
+       style="width: 400px; max-width: 100%; height: auto;">
+</p>
+
+* **Focus:** Developing a machine learning-based prediction framework using operational and airport data to estimate aircraft taxi-out time.
+* **Advisor:** Dr. João S. D. Garcia
+
+### 2. Wind Exposure and Approach Stability: Mediating Effects on Go-Around Initiation
 
 <p align="center">
   <img src="/images/research/ApproachStability2.svg"
@@ -23,7 +34,7 @@ author_profile: true
 * **Focus:** Analyzing how wind exposure impacts go-around initiation and quantifying the mediating role of approach stability using large-scale ADS-B trajectories and weather data.
 * **Advisor:** Dr. João S. D. Garcia
 
-### 2. Terminal Airspace Safety: Event-Based Traffic Proximity Risk Following Go-Arounds
+### 3. Terminal Airspace Safety: Event-Based Traffic Proximity Risk Following Go-Arounds
 
 <p align="center">
   <img src="/images/research/TAS.png"
@@ -35,7 +46,7 @@ author_profile: true
 * **Advisor:** Dr. João S. D. Garcia
 * **Funding:** Funded by the [Boeing Center for Aviation and Aerospace Safety](https://erau.edu/research-and-innovation/centers-and-institutes/boeing-center-for-aviation-and-aerospace-safety)
 
-### 3. LAANC/UASFM Analytics: Shared-Airspace Exposure in Low-Altitude Terminal Operations
+### 4. LAANC/UASFM Analytics: Shared-Airspace Exposure in Low-Altitude Terminal Operations
 
 <p align="center">
   <img src="/images/research/UASFM.png"
@@ -46,28 +57,17 @@ author_profile: true
 * **Focus:** Integrating terrain-normalized ADS-B trajectories with FAA UAS Facility Map grids to assess conventional aircraft exposure within LAANC-authorized UAS altitude bands.
 * **Advisor:** Dr. Ryan Wallace
 
-### 4. Nationwide ADS-B Analytics: Low-Altitude Air Traffic Density Modeling
-
-<p align="center">
-  <img src="/images/research/SAE.png"
-       alt="Wind Exposure and Approach Stability"
-       style="width: 450px; max-width: 100%; height: auto;">
-</p>
-
-* **Focus:** Developing a scalable, big-data processing architecture using H3 hexagonal spatial indexing and terrain normalization to model nationwide low-altitude air traffic density.
-* **Advisor:** Dr. Ryan Wallace
-
 <br>
 
 ## Past Projects
 <hr />
 
-### 1. 2026 PRC Challenge: Predicting Aircraft Fuel Burn Using ADS-B and ACARS Data
+### 1. 2025 PRC Data Challenge
 
 <p align="center">
   <img src="/images/research/PRC.png"
        alt="Wind Exposure and Approach Stability"
-       style="width: 500px; max-width: 100%; height: auto;">
+       style="width: 400px; max-width: 100%; height: auto;">
 </p>
 
 * **Focus:** Developed a machine learning-based prediction framework using ADS-B trajectory data and ACARS operational data to estimate aircraft fuel burn and explore data-driven approaches to aircraft performance modeling.
