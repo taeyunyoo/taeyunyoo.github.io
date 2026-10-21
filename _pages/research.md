@@ -33,6 +33,7 @@ author_profile: true
 
 * **Focus:** Analyzing how wind exposure impacts go-around initiation and quantifying the mediating role of approach stability using large-scale ADS-B trajectories and weather data.
 * **Advisor:** Dr. João S. D. Garcia
+* **Funding:** Funded by the [Office of Philanthropy and Alumni Engagement](https://givingto.erau.edu/)
 
 ### 3. Terminal Airspace Safety: Event-Based Traffic Proximity Risk Following Go-Arounds
 
