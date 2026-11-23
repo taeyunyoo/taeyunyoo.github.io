@@ -12,16 +12,16 @@ author_profile: true
 ## Ongoing Projects
 <hr />
 
-### 1. 2026 PRC Data Challenge
+### 1. Wind Exposure and Approach Stability: Mediating Effects on Go-Around Initiation
 
 <p align="center">
-  <img src="/images/research/PRC2026.png"
-       alt="Wind Exposure and Approach Stability"
-       style="width: 400px; max-width: 100%; height: auto;">
+  <img src="/images/research/SAE.png"
+       alt="SAE"
+       style="width: 450px; max-width: 100%; height: auto;">
 </p>
 
-* **Focus:** Developing a machine learning-based prediction framework using operational and airport data to estimate aircraft taxi-out time.
-* **Advisor:** Dr. João S. D. Garcia
+* **Focus:** Characterizing the spatiotemporal patterns of low-altitude crewed aircraft operations across Florida using ADS-B trajectories, weather data, and terrain elevation to inform AAM corridor and vertiport planning.
+* **Advisor:** Dr. Ryan Wallace
 
 ### 2. Wind Exposure and Approach Stability: Mediating Effects on Go-Around Initiation
 
@@ -63,7 +63,17 @@ author_profile: true
 ## Past Projects
 <hr />
 
-### 1. 2025 PRC Data Challenge
+### 1. 2026 PRC Data Challenge
+
+<p align="center">
+  <img src="/images/research/PRC2026.png"
+       alt="Wind Exposure and Approach Stability"
+       style="width: 400px; max-width: 100%; height: auto;">
+</p>
+
+* **Focus:** Developing a machine learning-based prediction framework using operational and airport data to estimate aircraft taxi-out time.
+* **Advisor:** Dr. João S. D. Garcia
+### 2. 2025 PRC Data Challenge
 
 <p align="center">
   <img src="/images/research/PRC.png"
@@ -75,7 +85,7 @@ author_profile: true
 * **Advisor:** Dr. João S. D. Garcia
 * **Recognition:** Placed 9th among 173 teams in the EUROCONTROL Performance Review Commission (PRC) Challenge.
 
-### 2. Advanced Air Mobility (AAM) Integration: Disaster Response Use-Cases and Public Acceptance
+### 3. Advanced Air Mobility (AAM) Integration: Disaster Response Use-Cases and Public Acceptance
 
 <p align="center">
   <img src="/images/research/AAM.png"
